@@ -1,0 +1,1 @@
+Excellent! The git installation is sccessful.
